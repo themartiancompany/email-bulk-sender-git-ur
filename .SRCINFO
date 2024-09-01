@@ -1,6 +1,6 @@
 pkgbase = email-bulk-sender-git
-	pkgdesc = Sends emails in bulk.
-	pkgver = null.rnull.g83974e1849a44388d85d0fa553e08264c23ca9f4
+	pkgdesc = Android display utilities.
+	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.1.r0.g51e1e22e5e7eb1e360db021d3d28fb08fa655c42
 	pkgrel = 1
 	url = https://github.com/themartiancompany/email-bulk-sender
 	arch = any
@@ -14,7 +14,7 @@ pkgbase = email-bulk-sender-git
 	depends = gawk
 	depends = libcrash-bash
 	depends = msmtp
-	provides = email-bulk-sender=null.rnull.g83974e1849a44388d85d0fa553e08264c23ca9f4
+	provides = email-bulk-sender=0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.1.r0.g51e1e22e5e7eb1e360db021d3d28fb08fa655c42
 	conflicts = email-bulk-sender
 	source = email-bulk-sender.tar.gz::https://github.com/themartiancompany/email-bulk-sender/archive/refs/heads/master.tar.gz
 	sha256sums = SKIP

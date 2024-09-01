@@ -11,10 +11,10 @@ _local=false
 _proj="hip"
 _pkgname=email-bulk-sender
 pkgname="${_pkgname}-git"
-pkgver=null.rnull.g"83974e1849a44388d85d0fa553e08264c23ca9f4"
+pkgver="0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.1".r0.g"51e1e22e5e7eb1e360db021d3d28fb08fa655c42"
 pkgrel=1
 _pkgdesc=(
-  "Sends emails in bulk."
+  "Android display utilities."
 )
 pkgdesc="${_pkgdesc[*]}"
 arch=(
@@ -31,9 +31,9 @@ license=(
   AGPL3
 )
 depends=(
-  gawk
-  libcrash-bash
-  msmtp
+  "gawk"
+  "libcrash-bash"
+  "msmtp"
 )
 makedepends=(
   make
