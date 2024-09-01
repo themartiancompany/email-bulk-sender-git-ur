@@ -1,4 +1,4 @@
-# `italian-schools-fetcher-git`
+# `email-bulk-sender-git`
 
 universal recipe for [user repo](../themartiancompany/ur).
 
